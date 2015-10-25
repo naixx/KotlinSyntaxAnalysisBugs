@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_popup_back_to_bag"
+        android:title="@string/popup_menu_back_to_bag" />
+    <item
+        android:id="@+id/action_popup_useless"
+        android:title="@string/popup_menu_useless" />
+</menu>

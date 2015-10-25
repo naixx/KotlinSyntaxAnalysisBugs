@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PackBag</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_title_current">Вещи</string>
+    <string name="tab_title_taken">Берём</string>
+    <string name="tab_title_useless">Не берём</string>
+    <string name="title_activity_add_item">AddItem</string>
+    <string name="list_item_category_user">Пользовательская</string>
+    <string name="popup_menu_useless">Не берём</string>
+    <string name="menu_add_item">Add</string>
+    <string name="menu_clear_items">Clear items</string>
+    <string name="new_item_name_too_short">Too short!</string>
+    <string name="popup_menu_back_to_bag">Вернуть в рюкзак</string>
+    <string name="action_search">Поиск</string>
+    <string name="share_text_common">Я только что собрал рюкзак</string>
+    <string name="share_text_fb_title">@string/share_text_common</string>
+</resources>

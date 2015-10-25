@@ -1,0 +1,122 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+*/bin/
+*/gen/
+*/out/
+*/build/
+annotations/
+build
+
+# libraries for the Eclipse/Ant build system
+
+# Local configuration file (sdk path, etc)
+local.properties
+release.properties
+default.properties
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+.DS_Store
+
+#Intelli J project files
+*.idea/
+*.iml
+*/gen-external-apklibs
+*.ipr
+*.iws
+
+#Maven project files
+*/target/
+
+#Maven release files
+*.releaseBackup
+*.versionsBackup
+
+#symoblic link to action bar sherlock
+library
+.apt_generated
+.classpath
+.project
+.classpath
+.project
+.gradle
+/screenshots
+/app/libs/Parse-1.7.0-javadoc
+/annotations/Parse-1.7.0/com/parse/annotations.xml
+/annotations/Parse-1.7.0/com/parse/codec/annotations.xml
+/annotations/Parse-1.7.0/com/parse/codec/binary/annotations.xml
+/annotations/Parse-1.7.0/com/parse/codec/digest/annotations.xml
+/annotations/Parse-1.7.0/com/parse/codec/language/annotations.xml
+/annotations/Parse-1.7.0/com/parse/codec/net/annotations.xml
+/annotations/Parse-1.7.0/com/parse/entity/mime/annotations.xml
+/annotations/Parse-1.7.0/com/parse/entity/mime/content/annotations.xml
+/annotations/Parse-1.7.0/com/parse/gdata/annotations.xml
+/annotations/Parse-1.7.0/com/parse/signpost/annotations.xml
+/annotations/Parse-1.7.0/com/parse/signpost/basic/annotations.xml
+/annotations/Parse-1.7.0/com/parse/signpost/commonshttp/annotations.xml
+/annotations/Parse-1.7.0/com/parse/signpost/exception/annotations.xml
+/annotations/Parse-1.7.0/com/parse/signpost/http/annotations.xml
+/annotations/Parse-1.7.0/com/parse/signpost/signature/annotations.xml
+/annotations/appcompat-v7-20.0.0/android/support/v7/app/annotations.xml
+/annotations/appcompat-v7-20.0.0/android/support/v7/appcompat/annotations.xml
+/annotations/appcompat-v7-20.0.0/android/support/v7/internal/view/annotations.xml
+/annotations/appcompat-v7-20.0.0/android/support/v7/internal/view/menu/annotations.xml
+/annotations/appcompat-v7-20.0.0/android/support/v7/internal/widget/annotations.xml
+/annotations/appcompat-v7-20.0.0/android/support/v7/view/annotations.xml
+/annotations/appcompat-v7-20.0.0/android/support/v7/widget/annotations.xml
+/annotations/eventbus-2.2.1/de/greenrobot/event/annotations.xml
+/annotations/eventbus-2.2.1/de/greenrobot/event/util/annotations.xml
+/annotations/facebook-android-sdk-3.14.1/com/facebook/android/annotations.xml
+/annotations/facebook-android-sdk-3.14.1/com/facebook/annotations.xml
+/annotations/facebook-android-sdk-3.14.1/com/facebook/internal/annotations.xml
+/annotations/facebook-android-sdk-3.14.1/com/facebook/model/annotations.xml
+/annotations/facebook-android-sdk-3.14.1/com/facebook/widget/annotations.xml
+/annotations/joda-time-2.3/org/joda/time/annotations.xml
+/annotations/joda-time-2.3/org/joda/time/base/annotations.xml
+/annotations/joda-time-2.3/org/joda/time/chrono/annotations.xml
+/annotations/joda-time-2.3/org/joda/time/convert/annotations.xml
+/annotations/joda-time-2.3/org/joda/time/field/annotations.xml
+/annotations/joda-time-2.3/org/joda/time/format/annotations.xml
+/annotations/joda-time-2.3/org/joda/time/tz/annotations.xml
+/annotations/rxjava-android-0.20.5/rx/android/concurrency/annotations.xml
+/annotations/rxjava-android-0.20.5/rx/android/observables/annotations.xml
+/annotations/rxjava-android-0.20.5/rx/android/schedulers/annotations.xml
+/annotations/rxjava-android-0.20.5/rx/operators/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/exceptions/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/functions/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/internal/operators/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/internal/schedulers/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/internal/util/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/internal/util/unsafe/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/observables/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/observers/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/plugins/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/schedulers/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/subjects/annotations.xml
+/annotations/rxjava-core-0.20.5/rx/subscriptions/annotations.xml
+/annotations/stickylistheaders-2.5.2/se/emilsjolander/stickylistheaders/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/accessibilityservice/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/app/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/content/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/hardware/display/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/net/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/os/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/text/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/util/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/view/accessibility/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/view/annotations.xml
+/annotations/support-v4-20.0.0/android/support/v4/widget/annotations.xml
+/annotations/timber-2.2.2/timber/log/annotations.xml

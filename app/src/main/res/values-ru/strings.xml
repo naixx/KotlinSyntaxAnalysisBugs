@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_add_item">Добавить предмет</string>
+    <string name="menu_clear_items">Очистить список</string>
+    <string name="action_settings">Настройки</string>
+    <string name="list_item_category_user">Пользовательская</string>
+    <string name="title_activity_add_item">Добавление предмета</string>
+    <string name="new_item_name_too_short">Слишком коротко!</string>
+    <string name="popup_menu_useless">Не берём</string>
+    <string name="tab_title_taken">Берём</string>
+    <string name="tab_title_current">Вещи</string>
+    <string name="tab_title_useless">Не берём</string>
+    <string name="action_search">Поиск</string>
+</resources>
